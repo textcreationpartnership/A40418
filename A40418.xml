@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Free regulated trade, particularly to India the interest of England: being the true, natural means, to promote the navigation and riches of this nation. Forts and castles in India, notwithstanding all specious pretences, are occasionally prov'd to be of uncertain advantage, but of certain inconvenience to us. Discours'd in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40418</idno>
+            <idno type="STC">Wing F2119A</idno>
+            <idno type="STC">ESTC R216397</idno>
+            <idno type="EEBO-CITATION">99828128</idno>
+            <idno type="PROQUEST">99828128</idno>
+            <idno type="VID">32555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32555)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Free regulated trade, particularly to India the interest of England: being the true, natural means, to promote the navigation and riches of this nation. Forts and castles in India, notwithstanding all specious pretences, are occasionally prov'd to be of uncertain advantage, but of certain inconvenience to us. Discours'd in a letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Goldsmiths' Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Trading companies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32555:1"/>
+            <pb n="1" facs="tcp:32555:1" rendition="simple:additions"/>
+            <head>
+               <hi>Free, Regulated Trade,</hi> Particularly to INDIA, THE Intereſt of England: Being the True, Natural Means, to Promote The NAVIGATION and RICHES of this Nation. FORTS and CASTLES in <hi>INDIA,</hi> notwithſtanding all ſpecious Pretences, are Occaſionally prov'd to be of Uncertain Advantage, but of Certain Inconvenience to Us.
+Diſcours'd in a LETTER to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving formerly endeavour'd to make it evident to you, that Com<g ref="char:EOLhyphen"/>panies in Joynt-Stock were unneceſſary and inconvenient; and that a Free Trade to <hi>India</hi> under a Regulation was the Intereſt of the Nation; I am inclin'd to give you the trouble of ſome more Thoughts upon the ſame Subject, and by the way to let you know of how little Uſe, Forts and Caſtles in <hi>India</hi> are toward the Security and Sup<g ref="char:EOLhyphen"/>port of our Trade there, notwithſtanding the great Noiſe made in that matter. The <hi>Dutch Eaſt India</hi> Company having for above forty Years paſt, divid<g ref="char:EOLhyphen"/>ed no more than Nineteen <hi>per Cent. per Annum</hi> on their Original Stock (and 'tis plain that was the moſt they cou'd do, for a fifth of thoſe Dividends were in obligations on themſelves to remain at Intereſt) that Companies Actions wou'd never have been rais'd to the preſent eſteem'd Value of 500 <hi>per Cent.</hi> had it not been driven up by the Cheating Trade of Stock-Job<g ref="char:EOLhyphen"/>ing, begun in <hi>Holland;</hi> and therefore it is ſurprizing (conſidering the many ad<g ref="char:EOLhyphen"/>vantages the <hi>Hollanders</hi> have in that Trade above other Nations, and with<g ref="char:EOLhyphen"/>all the little Profit of not 4 <hi>per Cent.</hi> it brings to the preſent Adventurers)
+<pb n="2" facs="tcp:32555:2"/>that we ſhou'd ſo much value their <hi>Dutch</hi> Management, as to make uſe of it as an invincible Argument, that becauſe they do, we muſt alſo carry on our Trade to <hi>India</hi> in a Joynt Stock. The other great Argument for a Joynt-Stock, the Neceſſity of maintaining Forts, is what has always been the Bane of the <hi>Dutch</hi> Company, the Expence being ſo vaſtly great as obliging them to ſend out annually 12 or 1500 Men, to recruit their Gar<g ref="char:EOLhyphen"/>riſons, and much Shipping to attend them with Ammunition, Stores and Pro<g ref="char:EOLhyphen"/>viſions, beſides all other incident Charges; and this being ſo (notwith<g ref="char:EOLhyphen"/>ſtanding the reaſon they have to be at this Charge, to keep the Spice-Iſlands to themſelves, by which means they ſupply the whole World with Nut<g ref="char:EOLhyphen"/>megs, Mace, Cloves and Cinamon, at their own Price) it is abſurd to aſſum it eſſential to the ſupporting our Trade to <hi>India,</hi> that we (that have no ſuch Foundation for it) muſt be alſo at the Expence of maintaining Forts, and that too when almoſt all our Trade thither is confin'd to the <hi>Mogull</hi>'s Dominions, where the <hi>Dutch</hi> (upon whoſe Example we lay ſuch mighty ſtreſs) have not any one Fort or Caſtle; and that their Trade thither is as great as ours ever was, will appear by the following Cargo of ſix of their Ships arriv'd thence laſt Year, being all Commodities procur'd within that Emperor's Territories, except the Pepper, which was bought on the North Coaſt of <hi>India.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">lib.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>2170977 <hi>of Pepper.</hi>
+                     </cell>
+                     <cell>23049 ps. <hi>Silks of div. ſorts.</hi>
+                     </cell>
+                     <cell>974 ps. <hi>Sulgees.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>159852 <hi>Indigo.</hi>
+                     </cell>
+                     <cell>3000 ps. <hi>Golgas.</hi>
+                     </cell>
+                     <cell>1678 ps. <hi>Albances.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>9715 <hi>Borax.</hi>
+                     </cell>
+                     <cell>600 <hi>Silk Gowns.</hi>
+                     </cell>
+                     <cell>8073 ps. <hi>Pho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ſees.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3142 <hi>Aloes.</hi>
+                     </cell>
+                     <cell>100 ps. <hi>Reſtas.</hi>
+                     </cell>
+                     <cell>7240 ps. <hi>Ginghams.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>92811 <hi>Coffee.</hi>
+                     </cell>
+                     <cell>218 ps. <hi>Alegais.</hi>
+                     </cell>
+                     <cell>8570 ps. <hi>of Crevats.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>37190 <hi>Cardemoms.</hi>
+                     </cell>
+                     <cell>250 ps. <hi>Atlaſſes.</hi>
+                     </cell>
+                     <cell>136<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>5 ps. <hi>Chinis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>150 <hi>Gum Oppoponan.</hi>
+                     </cell>
+                     <cell>600 ps. <hi>Morees.</hi>
+                     </cell>
+                     <cell>18<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>46 ps. <hi>Romalls.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2775 <hi>Salarmoniac.</hi>
+                     </cell>
+                     <cell>3300 ps. <hi>Salampores.</hi>
+                     </cell>
+                     <cell>50003 ps. <hi>Coroots.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1280 <hi>Wool.</hi>
+                     </cell>
+                     <cell>3600 ps. <hi>Betillees.</hi>
+                     </cell>
+                     <cell>6120 ps. <hi>Berms.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1050 <hi>Skins.</hi>
+                     </cell>
+                     <cell>400 ps. <hi>Oriſalls.</hi>
+                     </cell>
+                     <cell>6480 ps. <hi>Chiadees.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>37640 <hi>Floret Yarn.</hi>
+                     </cell>
+                     <cell>2280 ps. <hi>Perculles.</hi>
+                     </cell>
+                     <cell>1200 ps. <hi>Canckins.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>32687 <hi>Cotton Yarn.</hi>
+                     </cell>
+                     <cell>7495 ps. <hi>Coſſas.</hi>
+                     </cell>
+                     <cell>5280 ps. <hi>Baftas.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1534400 <hi>Salt Peter.</hi>
+                     </cell>
+                     <cell>4970 ps. <hi>Dorees.</hi>
+                     </cell>
+                     <cell>100 ps. <hi>Tanjeebs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>247604 <hi>Sapan Wood.</hi>
+                     </cell>
+                     <cell>4523 ps. <hi>Mulmuls.</hi>
+                     </cell>
+                     <cell>1200 ps. <hi>Cachies.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>124432 <hi>Caliatour Wood.</hi>
+                     </cell>
+                     <cell>937 ps. <hi>Therindas.</hi>
+                     </cell>
+                     <cell>2000 ps. <hi>Tapekankenias.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>78203 <hi>Cowries.</hi>
+                     </cell>
+                     <cell>931 ps. <hi>Adathaes.</hi>
+                     </cell>
+                     <cell>3315 ps. <hi>Sianters.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pearls of divers ſorts.</hi>
+                     </cell>
+                     <cell>4084 ps. <hi>Humhums.</hi>
+                     </cell>
+                     <cell>13100 ps. <hi>Nicanees.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>32 oun. <hi>Ambergris.</hi>
+                     </cell>
+                     <cell>498 ps. <hi>Zaanes.</hi>
+                     </cell>
+                     <cell>2820 ps. <hi>Long cloth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>138232 lb. <hi>Raw Silk.</hi>
+                     </cell>
+                     <cell>4510 ps. <hi>Garras.</hi>
+                     </cell>
+                     <cell>5940 ps. <hi>Sail cloth.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Wherefore I ſee no reaſon why we ſhou'd not truſt to the <hi>Mogul</hi>'s Protection as well as the <hi>Dutch,</hi> which wou'd be a much better Defence to us than a Fort or two, for in ſuch Caſe our Factories cou'd not be inſulted by any, but they muſt make War with the <hi>Mogull</hi> as well as with us (and then on<g ref="char:EOLhyphen"/>ly in open defenceleſs Towns) which will hardly ever happen; for we have taught the World, that to make War at ſuch a diſtance with ſo great a Prince, is to be at a vaſt Expence to no purpoſe, and the <hi>Dutch</hi> who are the beſt fitted for ſuch an Attempt, have always ſhew'd an averſion to it: And were not all this true, yet our Fondneſs for <hi>Fort St. George</hi> and <hi>Bom<g ref="char:EOLhyphen"/>bay</hi> is very unaccountable, ſince the firſt is ſituated where is neither Port nor Harbour, only an open Road, where no Ships can ride upon breaking up of the Monſoons with any tolerable ſafety; nor is this Road well com<g ref="char:EOLhyphen"/>manded by the Town or Fort, which for want of Water, beſides its other defects, cannot hold out a Siege of ten dayes, and is the worſt ſeated for Trade, or to make inveſtments of Goods, of any place on the Coaſt of <hi>Cor<g ref="char:EOLhyphen"/>mandell. Bombay</hi> its true is more defenſible, there is a Port, and it may be
+<pb n="3" facs="tcp:32555:2"/>reliev'd by Sea, yet its altogether as uſeleſs as the other, except to make War again with the <hi>Mogull,</hi> which wou'd be a Folly ſo fatal, that it ought to be abandon'd purely to ſecure us from the being tempted into ſuch a Miſ<g ref="char:EOLhyphen"/>fortune; but its a place without Commerce, and the ſafety and conveniency of Ships Harbouring there wou'd be the ſame, were there no Fort. Now theſe places being ſo very uncapable to be made uſefull to our Trade to <hi>India,</hi> we ought to deſert them, although their Revenues were what the preſent <hi>Eaſt-India</hi> Company pretend, (which perchance might otherwiſe render the keep<g ref="char:EOLhyphen"/>ing of them very eaſie to a Regulated Company) becauſe they deſtroy ſo many of our Souldiers and Seamen, being extreamly unhealthfull, eſpecial<g ref="char:EOLhyphen"/>ly <hi>Bombay;</hi> and were all the Dead-Liſts in the Companies poſſeſſion exa<g ref="char:EOLhyphen"/>min'd into, the Mortality wou'd be found very great.</p>
+            <p>But it is very probable the <hi>Mogul</hi> will ſoon eaſe us of the Trouble and Ex<g ref="char:EOLhyphen"/>pence of <hi>Fort St. George,</hi> he having now a Right to it by his Conqueſt of <hi>Golcondah,</hi> (that King having only made a Temporary Grant of it to the Company, paying him ſome acknowledgment) and this is the rather to be ſuſpected, the <hi>Mogul</hi> having Declar'd he wou'd ſuffer none to poſſeſs any Fortreſſes within his Dominions: And <hi>Bombay</hi> being Leas'd to the Compa<g ref="char:EOLhyphen"/>ny by King <hi>Charles</hi> the Second, at Ten Pound <hi>per Annum,</hi> (and a hard Bar<g ref="char:EOLhyphen"/>gain they then thought it, and have ſince experienc'd it to be) I cannot comprehend wherein lyes their Property to theſe Places, about which they have made ſo loud a Noiſe: And if they have better Pretenſions to <hi>St. He<g ref="char:EOLhyphen"/>lena,</hi> that's very well known to be only a Place of Refreſhment for their Ships homeward bound, and may be kept with little Charge: And <hi>Bencoelen</hi> is no other than an ill Fortified Magazine, permitted to be built for the pro<g ref="char:EOLhyphen"/>curing of Pepper, which is not always to be had there neither, but is ſo Mortal to all that go thither, that it ſeems a Sin to keep it, even if there were no Pepper to be had elſewhere; but <hi>Carwar, Calicut, Bilipatan,</hi> and <hi>Quilon,</hi> &amp;c. on the North Coaſt of <hi>India,</hi> did always, and can ſupply us with great quantities of that Commodity, and the difference of the Coſt of it will be more than countervail'd by ſaving the Expence of a Fort, and the Lives of ſo many Men that muſt continually be Sacrific'd to Garriſon it, and of Seamen that Navigate thither.</p>
+            <p>How great Proviſion would be made for the younger Sons of the Gentry of <hi>England</hi> by a Regulated open Trade to thoſe Parts? how large a Com<g ref="char:EOLhyphen"/>paſs for the exerciſe of Parts and Induſtry do thoſe Territories afford? where at preſent none raiſe their Fortunes, but at the pleaſure of a few Men; where few go but Men of broken Fortunes, or Youths to be bred up at mean Sallaries. Certainly it ſeems a Paradox, that Trade to Countries of ſo vaſt extent as are mention'd in the <hi>India</hi> and <hi>Affrican</hi> Companies Charters, which is nigh half the World, ſhou'd be limited and given to them, excluſive to all other <hi>Engliſh</hi> Men (when every other Nation doth, or may Trade thi<g ref="char:EOLhyphen"/>ther) and to Countries where our Growths and Manufactures may be in great quantities Vented, and with them may be purchas'd moſt of the Uſe<g ref="char:EOLhyphen"/>full and Noble Commodities that the World produces. Indeed it is unac<g ref="char:EOLhyphen"/>countable that we of this Nation ſhou'd be forc'd to bury our Talent, and not give full ſcope to that Genius we have to Traffick and Navigation, but muſt erect Companies and Monopolies to carry it no farther than juſt what their own Intereſt leads them to; and it wou'd be againſt their Oath, ſhou'd they preferr the Publick Good in prejudice to the Joynt-Stock, which ſuch Companies were never known to be guilty of, always exporting and im<g ref="char:EOLhyphen"/>porting no more of any Merchandize than what would yield them their ſta<g ref="char:EOLhyphen"/>ted Profits; when particular Merchants who cannot make Combinations, will carry out and bring home much greater quantities of all Commodities, becauſe they can and muſt afford them with leſs profit, and ſometimes
+<pb n="4" facs="tcp:32555:3"/>muſt content themſelves with Loſs, and yet will return to the ſame Voy<g ref="char:EOLhyphen"/>ages to ſee to recompenſe themſelves, and thus rendering all Goods cheap<g ref="char:EOLhyphen"/>er will naturally increaſe the Vent of them, and we ſhall undo our Forreign Monopoly Competitours by Underſelling them, which will be a benefit to the Publick, whereas Companies in Joynt-Stock do Tax the Nation, by ſetting their own Price on all they export and import.</p>
+            <p>The increaſe of Commerce, the certain conſequence of laying open a limited Trade, will as certainly increaſe Navigation, the advantage whereof will be very great, from the length of the Voyages to <hi>India,</hi> beſides the imploy<g ref="char:EOLhyphen"/>ment our Shipping will find in thoſe Seas, the <hi>Banian, Moors,</hi> and other Mer<g ref="char:EOLhyphen"/>chants there, coveting to employ <hi>Engliſh</hi> Ships, though at great Freights, (which is too intricate a matter for a Company to concern themſelves with, unleſs ſometimes by neceſſity) and by this we ſhall learn more ex<g ref="char:EOLhyphen"/>perience, and daily make New Diſcoveries of the Commerce of thoſe Peo<g ref="char:EOLhyphen"/>ple which may prove of great advantage to this Nation.</p>
+            <p>And therefore I cannot think that thoſe Merchants (when the Trade to <hi>India</hi> was free to all) who deſir'd the Eſtabliſhment of this preſent Com<g ref="char:EOLhyphen"/>pany, had in View the Kingdoms good, but their private Intereſts; for to put in a Stock in this Company might then be more beneficial to thoſe Perſons, than trading particularly, eſpecially if they were brought in to be Managers, as ſome of them were, and made a good Uſe of it too, by being Penſioners to the <hi>Dutch,</hi> whoſe Intereſt it is that our Trade to <hi>India</hi> and <hi>Guinea</hi> ſhould be limited by Joynt-Stocks.</p>
+            <p>But granting the Eſtabliſhing of an <hi>Eaſt-India</hi> Company with a Joynt-Stock was then uſefull, yet the Caſe is alter'd now, for we are much bet<g ref="char:EOLhyphen"/>ter acquainted in thoſe Parts of the World, and the Stock of the Kingdom is greatly increas'd; and thô there may be inconveniencies in an abſolute open Trade, a Regulated Company will obviate them.</p>
+            <p>And ſince the preſent <hi>Eaſt-India</hi> Companies Affairs are reduc'd to ſuch ill Circumſtances, there can be no reaſon why the Nation ſhou'd not make the Experiment of a Free Trade under a Regulation; for it is morally im<g ref="char:EOLhyphen"/>poſſible but that it will have all the happy effects I have propos'd.</p>
+            <p>Theſe, <hi>Sir,</hi> are my real Sentiments of this Affair, at this time ſo much controverted, and I am perſwaded you do not think my Judgment has been in any manner influenc'd by private Intereſt; and indeed there is no room for ſuch a ſuſpicion; for if ſuch Regulation were made, I cou'd have no other advantage by it but what muſt be common to all.</p>
+            <p>If the preſent <hi>Eaſt-India</hi> Company will not part with their Forts but on exorbitant Conſiderations, I cannot tell why they ſhou'd not remain with them to make the moſt of their great Revenues they ſo much boaſt of; for (except <hi>St. Helena</hi>) none of them can be thought worth the purchaſing by either another Joynt-Stock Company, or a Regulated one, except to make a Preſent of them to the <hi>Mogul,</hi> to ingratiate themſelves with him.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32555:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
